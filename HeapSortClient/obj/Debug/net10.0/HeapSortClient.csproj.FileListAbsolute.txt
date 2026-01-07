@@ -1,0 +1,14 @@
+/home/omni/HeapSortClient/bin/Debug/net10.0/HeapSortClient
+/home/omni/HeapSortClient/bin/Debug/net10.0/HeapSortClient.deps.json
+/home/omni/HeapSortClient/bin/Debug/net10.0/HeapSortClient.runtimeconfig.json
+/home/omni/HeapSortClient/bin/Debug/net10.0/HeapSortClient.dll
+/home/omni/HeapSortClient/bin/Debug/net10.0/HeapSortClient.pdb
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.AssemblyInfoInputs.cache
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.AssemblyInfo.cs
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.csproj.CoreCompileInputs.cache
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.dll
+/home/omni/HeapSortClient/obj/Debug/net10.0/refint/HeapSortClient.dll
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.pdb
+/home/omni/HeapSortClient/obj/Debug/net10.0/HeapSortClient.genruntimeconfig.cache
+/home/omni/HeapSortClient/obj/Debug/net10.0/ref/HeapSortClient.dll
